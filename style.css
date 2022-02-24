@@ -33,14 +33,15 @@ h2 {
   line-height: 30px;
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
-  text-shadow: 2px 2px rgb(14, 10, 10);
+  text-shadow: 3px 2px rgb(14, 10, 10);
 }
 h3 {
   font-size: 30px;
   line-height: 10px;
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
-  text-shadow: 2px 2px rgb(125, 157, 245);
+  text-shadow: 3px 2px rgb(11, 11, 12);
+  color: rgb(125, 157, 245);
 }
 
 a {
@@ -75,7 +76,7 @@ p {
   max-width: 800px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  color: rgb(125, 157, 245);
+  color: rgb(7, 9, 12);
   font-size: 20px;
   font-style: italic;
 }
@@ -95,8 +96,8 @@ article:hover img {
 }
 img {
   position: absolute;
-  width: 500px;
-  right: 200px;
+  width: 350px;
+  right: 150px;
   top: 150px;
   opacity: 1;
 }
@@ -119,10 +120,20 @@ input {
   margin-top: 10px;
   height: 10px;
   padding: 15px;
-  border-radius: 50px;
-  border: 3px;
+  border-radius: 30px;
   font-size: 15px;
+  border: 5px;
+  background-color: rgb(180, 195, 240);
+
+  transition-property: background-color, border-radius;
+  transition-duration: 5s, 1.5s;
 }
+input:hover {
+  background-color: rgb(6, 6, 8);
+  border-radius: 20%;
+  color: white;
+}
+
 audio {
   height: 25px;
 }
