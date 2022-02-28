@@ -1,7 +1,4 @@
-<h2><i>💻 { Front-End } <br></i></h2><hr>
-⚙ HTML<br>
-⚙ CSS<br>
-⚙ JavaScript<br><hr>
+<h2><i>💻 { Front-End } HTML5 - CSS3 - JavaScript <br></i></h2><hr>
 
 <div align="center">
     <img src="https://im5.ezgif.com/tmp/ezgif-5-0885a86ac3-jpg/ezgif-frame-001.jpg" width="600px" height="300px">
