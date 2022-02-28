@@ -3,6 +3,10 @@
 ⚙ CSS<br>
 ⚙ JavaScript<br><hr>
 
+<div align="center">
+    <img src="https://im5.ezgif.com/tmp/ezgif-5-0885a86ac3-jpg/ezgif-frame-001.jpg" width="600px" height="300px">
+  </div>
+
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoramosk&show_icons=true&theme=onedark">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosk&langs_count=5&theme=onedark">
@@ -18,6 +22,4 @@
 <a href="https://wa.me/message/YESJLTSYSDNMH1">
 <img align="center" alt="Bruno-Whats" height="30" widht="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
-  <div align="center">
-    <img src="https://im5.ezgif.com/tmp/ezgif-5-0885a86ac3-jpg/ezgif-frame-001.jpg" width="800px" height="200px">
-  </div>
+  
