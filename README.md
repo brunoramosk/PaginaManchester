@@ -19,5 +19,5 @@
 <img align="center" alt="Bruno-Whats" height="30" widht="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
   <div align="center">
-    <img src="https://im5.ezgif.com/tmp/ezgif-5-0885a86ac3-jpg/ezgif-frame-001.jpg" width="460px" height="450px">
+    <img src="https://im5.ezgif.com/tmp/ezgif-5-0885a86ac3-jpg/ezgif-frame-001.jpg" width="400px" height="200px">
   </div>
